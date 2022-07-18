@@ -1,2 +1,19 @@
 myname: Divyesh.Radadiya.B
-portNo: 9900
+
+config:
+  page_size: 10
+  max_product: 100
+  solr_query_batch_size: 50
+  source_store_id: AJIO
+  promise_service_batch_size: 20
+  price_service_basic_options_batch_size: 10
+  price_service_basic_skus_batch_size: 20
+  addwishlist_integration_catalogue: true
+  view_all_price_service_against_options: true
+  view_wishlist_integration_promotion: false
+  hybris_call_switch_vaue: true
+  hybris_secret: 1234567890
+  tenant_id: AJIO
+  show_current_best_offer_price: false
+  catalog_cache_best_offer_price: false
+  flush_catalog_data_after_time: 1440
