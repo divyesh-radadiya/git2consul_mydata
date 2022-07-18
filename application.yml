@@ -16,4 +16,4 @@ config:
   tenant_id: AJIO
   show_current_best_offer_price: false
   catalog_cache_best_offer_price: false
-  flush_catalog_data_after_time: 1440
+  flush_catalog_data_after_time: 14400
