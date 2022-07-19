@@ -1,0 +1,2 @@
+config:
+  flush_catalog_data_after_time: 1234
